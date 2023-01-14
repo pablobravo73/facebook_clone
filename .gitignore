@@ -1,6 +1,7 @@
 .env
 venv
 manage.py
+.idea 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,django,pycharm
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,django,pycharm
 
