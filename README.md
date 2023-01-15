@@ -15,3 +15,6 @@
 * Installing Django Extensions
 * Running the development server through HTTPS
 * Adding authentication using Facebook
+* Adding authentication using Twitter
+* Adding authentication using Google
+* Creating a profile for users that register with social authentication
