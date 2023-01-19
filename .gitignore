@@ -6,6 +6,7 @@ migrations
 cert.crt
 cert.key
 notes.txt
+db.sqlite3
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,django,pycharm
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,django,pycharm
 
