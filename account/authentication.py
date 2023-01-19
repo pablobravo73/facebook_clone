@@ -21,6 +21,7 @@ class EmailAuthBackend:
         except User.DoesNotExist:
             return None
 
+
 def create_profile(backend, user, *args, **kwargs):
     """
     Create user profile for social authentication
